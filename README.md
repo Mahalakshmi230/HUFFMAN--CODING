@@ -13,12 +13,15 @@ Get the input string.
 ### Step2:
 <br>
 Create tree nodes.
+
 ### Step3:
 <br>
 Main function to implement huffman coding.
+
 ### Step4:
 <br>
 calculate frequency of occurence.
+
 ### Step5:
 <br>
 print the characters and its huffmancode.
